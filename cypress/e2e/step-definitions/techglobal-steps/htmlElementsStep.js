@@ -1,6 +1,5 @@
 const { Then, When } = require('@badeball/cypress-cucumber-preprocessor')
-const TGHtmlElementsPage = require('../../../pages/TGHtmlElementsPage')
-
+const TGHtmlElementsPage = require('../../../pages/TGHtmlElements')
 const tgHtmlElementsPage = new TGHtmlElementsPage()
 
 Then(/^user should see the "([^"]*)" page heading$/, (args1) => {
