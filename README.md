@@ -50,3 +50,20 @@ Advantage: Secure and flexible test configurations
 ```
 npm install dotenv -D
 ```
+## Install Prettier
+
+```bash
+
+```
+
+## Install eslint-config-prettier
+
+```bash
+
+```
+
+## Install eslint-plugin-prettier
+
+```bash
+
+```
